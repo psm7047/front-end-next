@@ -30,6 +30,13 @@ function AppMenu() {
         <Link href="/ch03_props_state/Exam03UseReducer"><a className="nav-link text-warning">Exam03UseReducer</a></Link>
         <Link href="/ch03_props_state/Exam04StateInitFun"><a className="nav-link text-warning">Exam04StateInitFun</a></Link>
         <Link href="/ch03_props_state/Exam05StateToProp"><a className="nav-link text-warning">Exam05StateToProp</a></Link>
+      </li>
+      <li className="nav-item mt-3">
+        <h6 className="text-white">Ch09. Ajax</h6>
+        <Link href="/ch09_ajax/Exam01AsyncControl"><a className="nav-link text-warning">Exam01AsyncControl</a></Link>
+        <Link href="/ch09_ajax/Exam02Auth"><a className="nav-link text-warning">Exam02Auth</a></Link>
+        <Link href="/ch09_ajax/Exam03Board/BoardTable"><a className="nav-link text-warning">Exam03Board</a></Link>
+        <Link href="/ch09_ajax/Exam04FileUploadDownload/BoardTable"><a className="nav-link text-warning">Exam04FileUploadDownload</a></Link>
       </li>  
     </ul>
   );
